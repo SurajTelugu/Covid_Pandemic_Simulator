@@ -1,2 +1,2 @@
 # Covid_Pandemic_Simulator
-Created a program which simulates the data of 100 people subjected to pandemic using graphs and priority queues
+This project provides the simulation of the data of 100 people subjected to pandemic using graphs and priority queues of c++
